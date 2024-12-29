@@ -1,0 +1,15 @@
+main.py:1084:SB
+--------------------------------------------------------------------
+Last Page: https://www.legacy.com/api/_frontend/search?endDate=2023-03-14&firstName=&keyword=&lastName=&limit=100&noticeType=all&offset=4300&session_id=&startDate=2023-03-14
+ Duration: 37.95s
+  Browser: Chrome 128.0.6613.84
+   Driver: chromedriver 128.0.6613.84
+Timestamp: 1724616330  (Unix Timestamp)
+     Date: Sunday, 25 August 2024
+     Time: 11:35:30 PM  (Iran Standard Time, UTC+03:30)
+--------------------------------------------------------------------
+Traceback:
+  Traceback (most recent call last):
+  File "d:/pythonProjects/Funerals_Scraping/Legacy/main.py", line 844, in mainFetchObituaries
+    10000 / 0
+ZeroDivisionError: division by zero
